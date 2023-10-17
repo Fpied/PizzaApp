@@ -1,0 +1,15 @@
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\bin\Debug\netstandard2.0\PizzaApp.deps.json
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\bin\Debug\netstandard2.0\PizzaApp.dll
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\bin\Debug\netstandard2.0\ref\PizzaApp.dll
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\bin\Debug\netstandard2.0\PizzaApp.pdb
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\PizzaApp.csproj.AssemblyReference.cache
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\PizzaApp.AssemblyInfoInputs.cache
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\PizzaApp.AssemblyInfo.cs
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\PizzaApp.dll
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\refint\PizzaApp.dll
+C:\Users\francois\source\repos\PizzaApp\PizzaApp\PizzaApp\obj\Debug\netstandard2.0\PizzaApp.pdb
